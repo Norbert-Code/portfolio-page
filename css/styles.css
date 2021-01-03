@@ -2,6 +2,7 @@ p {
     letter-spacing: 1px;
 }
 h1 {
-    color:red;
+
+    color:rgba(83, 70, 155, 0.575);
     text-decoration: underline;
 }
